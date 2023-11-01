@@ -1,0 +1,35 @@
+
+.main {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+       background-color: lightgray;
+       font-size: 20px;
+    
+}
+* {
+background-color: lightgray;
+}
+.topnav {
+    background-color: lightgray;
+    overflow: hidden;
+}
+
+.topnav a {
+    color: black;
+    text-align: center;
+    padding: 26px 28px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.topnav a:hover {
+    background: rgb(187,173,173);
+    background: linear-gradient(90deg, rgba(187,173,173,1) 0%, rgba(209,9,9,1) 0%, rgba(219,100,59,1) 55%, rgba(223,187,158,1) 100%);
+    color: lightgray;
+    text-decoration: none;
+}
+
+
+.name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 80px;
+}
